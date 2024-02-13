@@ -3,7 +3,7 @@ Predicted the drying rate of different leaves so as to optimize the performance 
 
 <br> The drying system is basically a solar dryer comprising of a black tray mounted on an aluminium frame and enclosed within a glass cover. This glass tray induces a greenhouse effect that effectively dries the leaves. <br>
 <br> As part of my final year project, my team ( Prerak, Shravan, Shikhar and I ) undertook a project to characterize the working of this dryer. <br>
-<br> The idea was to predict how quickly it would dry leaves based on the weather conditions of the place. We conducted this project in Bangalore, India. <br>
+<br> The idea was to predict how quickly it would dry leaves ( Curry leaves, Mint leaves and Spinach leaves ) based on the weather conditions of the place. We conducted this project in Bangalore, India. <br>
 
 <br> We tested 2 use cases: Open drying V/s Closed Drying <br>
 
@@ -23,4 +23,5 @@ Predicted the drying rate of different leaves so as to optimize the performance 
 
   <br> I used curve fitting in MATLAB to fit the data into these models. The model with the best RMSE, R-squared and Chi-Squared values was selected to characterize the model.<br>
 
+The project was a success and the dryer is now being used in rural parts of India to dry leaves. 
    
